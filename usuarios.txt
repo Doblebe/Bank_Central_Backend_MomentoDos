@@ -1,0 +1,3 @@
+1 cc1001234567 nombre: Carlos Lopez  cel:3001234567 user: carlos   contraseña: 1234 TipoCuenta: AHORROS
+2 cc1007654321 nombre: Maria Gonzalez cel:3107654321 user: maria    contraseña:5678 TipoCuenta:CORRIENTE
+3 cc1009876543 nombre: Andres Perez   cel:3209876543 user:andres   contraseña:9012 TipoCuenta:TARJETA DE CREDITO

@@ -1,0 +1,26 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+
+# Maven build directory
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# MacOS
+.DS_Store
