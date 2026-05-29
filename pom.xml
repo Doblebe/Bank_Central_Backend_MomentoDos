@@ -6,7 +6,9 @@
 
     <groupId>co.edu.cesde</groupId>
     <artifactId>BankCentral</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version> 
+       
+         //Agregación a base de datos
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
